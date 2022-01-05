@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Arve Solland's CV
 ---
-# Isaac Newton
+# Arve Solland
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
