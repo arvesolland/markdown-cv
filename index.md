@@ -3,11 +3,11 @@ layout: cv
 title: Arve Solland's CV
 ---
 # Arve Solland
-Physicist, Mathematician, Cambridge professor.
+Technical Lead, Software Engineer, Solutions Architect
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="arvesolland@gmail.com">arvesolland@gmail.com</a>
+| <a href="https://www.linkedin.com/in/arvesolland/">My Linkedin page</a>
 </div>
 
 
